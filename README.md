@@ -6,6 +6,7 @@
 - MongoDB Compass
 - Vs Code
 - Python
+- Fast API 
 
 ### Command used:
 - create virtual envirment command: virtualenv venv
