@@ -2,6 +2,11 @@
 
 ## Backend (localhost) created for employees record
 
+###Technology used:
+- MongoDB Compass
+- Vs Code
+- Python
+
 ### Command used:
 - create virtual envirment command: virtualenv venv
 - venv/scripts/activate
