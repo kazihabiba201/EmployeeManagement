@@ -1,6 +1,6 @@
 # MongoDB_Python_FastAPI(Backend)
 
-## Backend (localhost) created for employees record
+## Backend REST API with FastAPI created for employees record
 
 ### Technology used:
 - MongoDB Compass
