@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "65c111ebc6557260eaeac381"
+  },
+  "name": "Ken Red",
+  "department_name": "CSE",
+  "tenure": 2,
+  "skills": [
+    "Java",
+    "HTML"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c1194e952d97dce9ffaf6f"
+  },
+  "name": "Jen Roy",
+  "department_name": "EEE",
+  "tenure": 2,
+  "skills": [
+    "EEE",
+    "C"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c5e04adbac749af27997e5"
+  },
+  "name": "string",
+  "department_name": "stringkkkkkk",
+  "tenure": 0,
+  "skills": [
+    "string"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c5e072ae485b51e7e378ce"
+  },
+  "name": "string",
+  "department_name": "string",
+  "tenure": 0,
+  "skills": [
+    "string"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c68291e9ca495e7bcba476"
+  },
+  "name": "string",
+  "department_name": "string",
+  "tenure": 0,
+  "skills": [
+    "string"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c682ace9ca495e7bcba477"
+  },
+  "name": "string",
+  "department_name": "string",
+  "tenure": 0,
+  "skills": [
+    "string"
+  ]
+}]
