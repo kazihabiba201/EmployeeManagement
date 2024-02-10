@@ -4,9 +4,9 @@
 
 ### Technology used:
 - MongoDB Compass
-- Vs Code
+- VS Code
 - Python
-- Fast API 
+- FastAPI 
 
 ### Command used:
 - create virtual envirment command: virtualenv venv
